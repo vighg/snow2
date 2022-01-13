@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Deploy table" language="en" table="x_615004_deploymen_deploy_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Deploy table</label>
+            <language>en</language>
+            <name>x_615004_deploymen_deploy_table</name>
+            <plural>Deploy tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>vighgerg</sys_created_by>
+            <sys_created_on>2022-01-12 09:09:28</sys_created_on>
+            <sys_id>633bee7c9705011051509300f153af3c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Deploy table</sys_name>
+            <sys_package display_value="deployment test" source="x_615004_deploymen">01daa27c9705011051509300f153af40</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="deployment test">01daa27c9705011051509300f153af40</sys_scope>
+            <sys_update_name>sys_documentation_x_615004_deploymen_deploy_table__en</sys_update_name>
+            <sys_updated_by>vighgerg</sys_updated_by>
+            <sys_updated_on>2022-01-12 09:09:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

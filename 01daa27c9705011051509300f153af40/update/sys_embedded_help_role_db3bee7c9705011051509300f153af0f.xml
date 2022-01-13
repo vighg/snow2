@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_615004_deploymen.deploy_table_user" name="x_615004_deploymen.deploy_table_user">133bae7c9705011051509300f153af9c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>vighgerg</sys_created_by>
+        <sys_created_on>2022-01-12 09:09:27</sys_created_on>
+        <sys_id>db3bee7c9705011051509300f153af0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>133bae7c9705011051509300f153af9c</sys_name>
+        <sys_package display_value="deployment test" source="x_615004_deploymen">01daa27c9705011051509300f153af40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="deployment test">01daa27c9705011051509300f153af40</sys_scope>
+        <sys_update_name>sys_embedded_help_role_db3bee7c9705011051509300f153af0f</sys_update_name>
+        <sys_updated_by>vighgerg</sys_updated_by>
+        <sys_updated_on>2022-01-12 09:09:27</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
