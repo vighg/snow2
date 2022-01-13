@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="config_name" label="config name" language="en" table="x_615004_deploymen_deploy_table">
+    <sys_documentation element="u_123serthsrhtsrht" label="123" language="en" table="x_615004_deploymen_deploy_table">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>config_name</element>
+            <element>u_123serthsrhtsrht</element>
             <help/>
             <hint/>
-            <label>config name</label>
+            <label>123</label>
             <language>en</language>
             <name>x_615004_deploymen_deploy_table</name>
-            <plural>config names</plural>
+            <plural>123s</plural>
             <sys_class_name>sys_documentation</sys_class_name>
-            <sys_created_by>vighgerg</sys_created_by>
-            <sys_created_on>2022-01-12 09:10:33</sys_created_on>
-            <sys_id>537b2e7c9705011051509300f153af8f</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-13 14:49:07</sys_created_on>
+            <sys_id>7892495d9701011051509300f153af16</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>config name</sys_name>
+            <sys_name>123</sys_name>
             <sys_package display_value="deployment test" source="x_615004_deploymen">01daa27c9705011051509300f153af40</sys_package>
             <sys_policy/>
             <sys_scope display_value="deployment test">01daa27c9705011051509300f153af40</sys_scope>
-            <sys_update_name>sys_documentation_x_615004_deploymen_deploy_table_config_name_en</sys_update_name>
-            <sys_updated_by>vighgerg</sys_updated_by>
-            <sys_updated_on>2022-01-12 09:10:33</sys_updated_on>
+            <sys_update_name>sys_documentation_x_615004_deploymen_deploy_table_u_123serthsrhtsrht_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-13 14:49:07</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

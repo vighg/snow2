@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>vighgerg</sys_created_by>
+        <sys_created_on>2022-01-12 09:09:28</sys_created_on>
+        <sys_id>ef3bee7c9705011051509300f153af2e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_615004_deploymen_deploy_table.x_615004_deploymen.deploy_table_user</sys_name>
+        <sys_package display_value="deployment test" source="x_615004_deploymen">01daa27c9705011051509300f153af40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="deployment test">01daa27c9705011051509300f153af40</sys_scope>
+        <sys_security_acl display_value="x_615004_deploymen_deploy_table">233bee7c9705011051509300f153af2c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ef3bee7c9705011051509300f153af2e</sys_update_name>
+        <sys_updated_by>vighgerg</sys_updated_by>
+        <sys_updated_on>2022-01-12 09:09:28</sys_updated_on>
+        <sys_user_role display_value="x_615004_deploymen.deploy_table_user" name="x_615004_deploymen.deploy_table_user">133bae7c9705011051509300f153af9c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="deployment test">01daa27c9705011051509300f153af40</application>
+        <file_path/>
+        <instance_id>a83ddfcddb4b44948aea21c40596193a</instance_id>
+        <instance_name>dev100974</instance_name>
+        <name>sys_security_acl_role_ef3bee7c9705011051509300f153af2e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>vighgerg</sys_created_by><sys_created_on>2022-01-12 09:09:28</sys_created_on><sys_id>ef3bee7c9705011051509300f153af2e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_615004_deploymen_deploy_table.x_615004_deploymen.deploy_table_user</sys_name><sys_package display_value="deployment test" source="x_615004_deploymen">01daa27c9705011051509300f153af40</sys_package><sys_policy/><sys_scope display_value="deployment test">01daa27c9705011051509300f153af40</sys_scope><sys_security_acl display_value="x_615004_deploymen_deploy_table">233bee7c9705011051509300f153af2c</sys_security_acl><sys_update_name>sys_security_acl_role_ef3bee7c9705011051509300f153af2e</sys_update_name><sys_updated_by>vighgerg</sys_updated_by><sys_updated_on>2022-01-12 09:09:28</sys_updated_on><sys_user_role display_value="x_615004_deploymen.deploy_table_user" name="x_615004_deploymen.deploy_table_user">133bae7c9705011051509300f153af9c</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1798388199</payload_hash>
+        <record_name>x_615004_deploymen_deploy_table.x_615004_deploymen.deploy_table_user</record_name>
+        <reverted_from/>
+        <source>c5daa27c9705011051509300f153af42</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>vighgerg</sys_created_by>
+        <sys_created_on>2022-01-12 09:09:28</sys_created_on>
+        <sys_id>6b3bee7c9705011051509300f153af31</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e4d8c9e980000001</sys_recorded_at>
+        <sys_updated_by>vighgerg</sys_updated_by>
+        <sys_updated_on>2022-01-12 09:09:28</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>a33bee7c840501104d74d3fb857ad431</update_guid>
+        <update_guid_history>a33bee7c840501104d74d3fb857ad431:-1798388199</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_615004_deploymen_deploy_table.x_615004_deploymen.deploy_table_user">d262055d9701011051509300f153af36</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-13 14:48:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>338e8e152dee418e9553ce871c25b559</sys_id>
+        <sys_metadata>ef3bee7c9705011051509300f153af2e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_615004_deploymen_deploy_table.x_615004_deploymen.deploy_table_user</sys_name>
+        <sys_package display_value="deployment test" source="x_615004_deploymen">01daa27c9705011051509300f153af40</sys_package>
+        <sys_parent display_value="">233bee7c9705011051509300f153af2c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="deployment test">01daa27c9705011051509300f153af40</sys_scope>
+        <sys_scope_delete display_value="">519f8055ec534a2c93ca3e7a7342f524</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_ef3bee7c9705011051509300f153af2e</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_ef3bee7c9705011051509300f153af2e">6b3bee7c9705011051509300f153af31</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-13 14:48:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
