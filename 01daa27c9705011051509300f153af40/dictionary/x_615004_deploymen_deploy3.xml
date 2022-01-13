@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="deploy3" max_length="40" name="x_615004_deploymen_deploy3" type="collection">
+        <element label="agaegrha" max_length="40" name="agaegrha" type="boolean"/>
+    </element>
+</database>
